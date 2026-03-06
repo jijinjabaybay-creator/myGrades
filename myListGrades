@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse; /* Optional: collapses borders into a single line */
+        padding: 8px; /* Optional: adds space between cell content and border */
+        text-align: center; /* Optional: centers content in cells */
+    }
+</style>
+    <title></title>
+</head>
+
+<body>
+
+    <ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
+<table>
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+            <th>Header 3</th>
+            <th>Header 4</th>
+            <th>Header 5</th>
+            <th>Header 6</th>
+            <th>Header 7</th>
+            <th>Header 8</th>
+            <th>Header 9</th>
+        </tr>
+
+         <tr>
+            <td>Row 2, Data 1</td>
+            <td>Row 2, Data 2</td>
+            <td>Row 2, Data 3</td>
+            <td>Row 2, Data 4</td>
+            <td>Row 2, Data 5</td>
+            <td>Row 2, Data 6</td>
+            <td>Row 2, Data 7</td>
+            <td>Row 2, Data 8</td>
+            <td>Row 2, Data 9</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
